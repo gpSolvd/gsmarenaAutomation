@@ -1,0 +1,2 @@
+[2022-01-04 11:32:55] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-01-04 11:32:55] [IMessager.java] [1] [INFO] RESULT #1: TEST [gsmarena - verifyHomePageWorkflow] PASS [screenshots=file://C:\Users\Gabriel\IdeaProjects\gsmarena\.\reports\1641306707522/bffd8283-454a-45c0-afe7-f51ba4008063/report.html | log=file://C:\Users\Gabriel\IdeaProjects\gsmarena\.\reports\1641306707522/bffd8283-454a-45c0-afe7-f51ba4008063/test.log]

@@ -1,0 +1,68 @@
+[2022-01-03 09:13:00] [TestRunRegistrar.java] [17] [WARN] Reporting disabled: using no op test run registrar
+[2022-01-03 09:13:00] [TestRunRegistrar.java] [17] [WARN] Reporting disabled: using no op test run registrar
+[2022-01-03 09:13:00] [IMessager.java] [17] [INFO] TEST [gsmarena [row=1] - loginUser [L01]] STARTED at [21:13:00 2022-01-03]
+[2022-01-03 09:13:03] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:03] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:03] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:03] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:56] [DriverListener.java] [17] [INFO] PASS: element 'signUpButton' is clicked.
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:57] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 09:13:58] [DriverListener.java] [17] [INFO] PASS: keys cleared in element 'nickName'.
+[2022-01-03 09:13:59] [DriverListener.java] [17] [INFO] PASS: keys 'pepe653218442553209876433014608089' are sent to element 'nickName'.
+[2022-01-03 09:14:00] [DriverListener.java] [17] [INFO] PASS: keys cleared in element 'email'.
+[2022-01-03 09:14:01] [DriverListener.java] [17] [INFO] PASS: keys 'pepepsep345o5551666523@gmail.com' are sent to element 'email'.
+[2022-01-03 09:14:01] [DriverListener.java] [17] [INFO] PASS: keys cleared in element 'password'.
+[2022-01-03 09:14:02] [DriverListener.java] [17] [INFO] PASS: keys '12313524' are sent to element 'password'.
+[2022-01-03 09:14:02] [DriverListener.java] [17] [INFO] PASS: element 'conditionIAgree' is clicked.
+[2022-01-03 09:14:03] [DriverListener.java] [17] [INFO] PASS: element 'conditionAge' is clicked.
+[2022-01-03 09:14:13] [DriverListener.java] [17] [INFO] PASS: element 'submitButton' is clicked.
+[2022-01-03 09:14:14] [DriverListener.java] [17] [INFO] PASS: element 'loginButton' is clicked.
+[2022-01-03 09:14:14] [DriverListener.java] [17] [INFO] PASS: keys cleared in element 'emailLogin'.
+[2022-01-03 09:14:15] [DriverListener.java] [17] [INFO] PASS: keys 'pepepsep345o5551666523@gmail.com' are sent to element 'emailLogin'.
+[2022-01-03 09:14:16] [DriverListener.java] [17] [INFO] PASS: keys cleared in element 'passwordLogin'.
+[2022-01-03 09:14:16] [DriverListener.java] [17] [INFO] PASS: keys '12313524' are sent to element 'passwordLogin'.
+[2022-01-03 09:14:18] [DriverListener.java] [17] [INFO] PASS: element 'loginUserPassButton' is clicked.
+[2022-01-03 09:14:19] [IMessager.java] [17] [INFO] TEST [gsmarena [row=1] - loginUser [L01]] PASSED at [21:14:19 2022-01-03]

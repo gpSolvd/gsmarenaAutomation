@@ -1,0 +1,72 @@
+[2022-01-03 04:09:29] [TestRunRegistrar.java] [17] [WARN] Reporting disabled: using no op test run registrar
+[2022-01-03 04:09:29] [TestRunRegistrar.java] [17] [WARN] Reporting disabled: using no op test run registrar
+[2022-01-03 04:09:29] [IMessager.java] [17] [INFO] TEST [gsmarena [row=1] - signUpUser [L01]] STARTED at [16:09:29 2022-01-03]
+[2022-01-03 04:09:31] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:09:31] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:09:31] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:09:31] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [DriverListener.java] [17] [INFO] PASS: element 'signUpButton' is clicked.
+[2022-01-03 04:10:23] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:23] [CryptoTool.java] [17] [ERROR] Can't load secret key!
+[2022-01-03 04:10:29] [DriverListener.java] [17] [INFO] PASS: keys cleared in element 'nickName'.
+[2022-01-03 04:10:29] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:30] [DriverListener.java] [17] [INFO] PASS: keys 'pepe653218442553209876433012263678' are sent to element 'nickName'.
+[2022-01-03 04:10:30] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:30] [DriverListener.java] [17] [INFO] PASS: keys cleared in element 'email'.
+[2022-01-03 04:10:30] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:30] [DriverListener.java] [17] [INFO] PASS: keys 'pepepsep345o5551666523@gmail.com' are sent to element 'email'.
+[2022-01-03 04:10:30] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:30] [DriverListener.java] [17] [INFO] PASS: keys cleared in element 'password'.
+[2022-01-03 04:10:30] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:31] [DriverListener.java] [17] [INFO] PASS: keys '12313524' are sent to element 'password'.
+[2022-01-03 04:10:31] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:31] [DriverListener.java] [17] [INFO] PASS: element 'conditionIAgree' is clicked.
+[2022-01-03 04:10:31] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:31] [DriverListener.java] [17] [INFO] PASS: element 'conditionAge' is clicked.
+[2022-01-03 04:10:31] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:36] [DriverListener.java] [17] [INFO] PASS: element 'submitButton' is clicked.
+[2022-01-03 04:10:36] [Screenshot.java] [17] [WARN] Unable to capture screenshot due to the Exception!
+[2022-01-03 04:10:41] [IMessager.java] [17] [INFO] TEST [gsmarena [row=1] - signUpUser [L01]] PASSED at [16:10:41 2022-01-03]

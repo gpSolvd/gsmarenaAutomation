@@ -1,0 +1,3 @@
+[2022-01-03 04:07:34] [IMessager.java] [22] [INFO] INFO: opening url 'https://www.gsmarena.com/'
+[2022-01-03 04:08:24] [DriverListener.java] [22] [INFO] URL 'https://www.gsmarena.com/' opened
+[2022-01-03 04:08:24] [Screenshot.java] [22] [WARN] Unable to capture screenshot due to the Exception!
