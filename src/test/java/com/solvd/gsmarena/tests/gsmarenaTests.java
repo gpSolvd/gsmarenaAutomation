@@ -22,7 +22,7 @@ public class gsmarenaTests extends AbstractTest implements IAbstractTest, IGetAg
     public void verifyHomePageWorkflow(){
         GetgsmarenaPage getgsmarenaPage = goToSignUp(getDriver());
         assertEquals(getgsmarenaPage.getCreateAccountText(), "Create account", "FATAL!, Not same");
-    }
+    }//
 
     @Test(dataProvider = "DataProvider")
     @MethodOwner(owner = "qpsdemo")
