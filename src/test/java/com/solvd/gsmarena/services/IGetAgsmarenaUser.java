@@ -116,7 +116,7 @@ public interface IGetAgsmarenaUser {
         //getgsmarenaPage.setPasswordLogin("aaa" + getgsmarenaPage.getRandomNumber());
         getgsmarenaPage.clickLoginUserPassButton();
         return getgsmarenaPage;
-    }
+    }//
 
     default GetgsmarenaPage goToSearchGeneral(WebDriver driver){
         //GetgsmarenaPage getgsmarenaPage = goToLoginUser(driver);
