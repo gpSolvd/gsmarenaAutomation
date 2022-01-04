@@ -90,7 +90,7 @@ public class gsmarenaTests extends AbstractTest implements IAbstractTest, IGetAg
         GetgsmarenaPage getgsmarenaPage = goToLoginUserInvalidEmailPassCombination(getDriver(), args);
         assertEquals(getgsmarenaPage.getLoginFailedText(), "Reason: User record not found.", "FATAL!, Not same");
 
-    }
+    }//
 
     @Test
     public void searchGeneral(){
