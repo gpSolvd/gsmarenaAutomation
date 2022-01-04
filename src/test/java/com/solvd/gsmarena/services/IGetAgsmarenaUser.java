@@ -17,19 +17,7 @@ public interface IGetAgsmarenaUser {
         return new GetgsmarenaPage(driver);
     }
 
-  /*  default GetgsmarenaPage goToCreateAccount(WebDriver driver){
-        GetgsmarenaPage getgsmarenaPage = goToSignUp(driver);
-        Random random = new Random();
-        getgsmarenaPage.setRandomNumber(random.nextInt(9999));
-        getgsmarenaPage.setNickName("pepe" + getgsmarenaPage.getRandomNumber() );
-        getgsmarenaPage.setEmail("pepe" +  getgsmarenaPage.getRandomNumber() + "@gmail.com");
-        getgsmarenaPage.setPassword("aaa" + getgsmarenaPage.getRandomNumber());
-        getgsmarenaPage.clickConditionIAgree();
-        getgsmarenaPage.clickConditionAge();
-        getgsmarenaPage.clickSubmitButton();
-        return getgsmarenaPage;
-    }
-*/
+
     default GetgsmarenaPage goToCreateAccount(WebDriver driver, HashMap<String, String> args){
         GetgsmarenaPage getgsmarenaPage = goToSignUp(driver);
         Random random = new Random();
